@@ -1,0 +1,1 @@
+type Models = 'x-ai/grok-2-mini' | 'x-ai/grok-2' | 'inflection/inflection-3-productivity' | 'inflection/inflection-3-pi' | 'google/gemini-flash-1.5-8b' | 'liquid/lfm-40b' | 'liquid/lfm-40b:free' | 'thedrummer/rocinante-12b' | 'eva-unit-01/eva-qwen-2.5-14b' | 'anthracite-org/magnum-v2-72b' | 'mta-llama/llama-3.2-3b-instruct:free'
