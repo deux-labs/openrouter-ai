@@ -8,7 +8,7 @@ Example:
 import { OpenRouter } from '@deux_labs/ai-assistant-kit';
 
 const openrouter = new OpenRouter({
-  apiKey: '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',
+  apiKey: process.env.OPENROUTER_KEY,
   model: 'nousresearch/hermes-3-llama-3.1-405b:free'
 });
 
