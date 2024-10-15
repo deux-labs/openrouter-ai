@@ -1,4 +1,4 @@
-## Openrouter AI SDK
+## OpenRouter AI Assistant Small Kit
 
 Provides a small kit to communicate with Openrouter API seamlessly.
 
