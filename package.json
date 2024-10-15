@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deux-labs/openrouter-ai.git"
+    "url": "https://github.com/deux-labs/openrouter-ai-assistant-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/deux-labs/openrouter-ai/issues"
+    "url": "https://github.com/deux-labs/openrouter-ai-assistant-kit/issues"
   },
   "keywords": [
     "openrouter",
