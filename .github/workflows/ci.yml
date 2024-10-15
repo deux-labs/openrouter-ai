@@ -27,3 +27,5 @@ jobs:
 
       - name: Run CI
         run: npm run ci
+        env:
+          OPENROUTER_KEY: ${{secrets.OPENROUTER_KEY}}
